@@ -1,1 +1,1 @@
-#(lyp:load "source/index.ily")
+\include "source/index.ily"
